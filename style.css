@@ -1,0 +1,22 @@
+.buttons{
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; */
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.top .result-box, .buttons{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+#result{
+  line-height: 50px;
+  margin-left: 2px;
+}
+.num1{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
